@@ -18,7 +18,7 @@
 
 需要注意的是，翻墙软件不仅在下载和注册Telegram账号时必不可少，在日常使用Telegram的过程中，也必须全程保持连接，这样才能确保正常访问。更多详情请查看：<a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN</a>、<a href="https://github.com/cnvpns/pcvpn.github.io">电脑VPN</a>、<a href="https://github.com/cnvpns/android.github.io">安卓VPN</a>、<a href="https://github.com/cnvpns/freevpn.github.io">免费VPN</a>。
 
-### 安卓设备下载电报教程
+**一、安卓设备下载电报教程**
 
 安卓用户可以直接访问Telegram官方网站（telegram.org），在页面顶部点击“Apps”，选择Android版本进行下载。如果你使用的是Google Play账号，也可以在Google Play商店搜索“Telegram”并下载安装。我们建议大家优先选择Telegram官方网站提供的apk文件，避免通过第三方渠道下载，以防出现安全风险。
 
@@ -26,7 +26,7 @@
 
 ![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Gmail%E9%82%AE%E7%AE%B1.png)
 
-### iOS设备下载电报教程
+**二、iOS设备下载电报教程**
 
 由于国内苹果用户在App Store国区无法直接搜索到Telegram，因此需要使用海外Apple ID账号。大家可以自己注册一个新的海外Apple ID帐号，将地区设置为美国或香港，然后在App Store中登录该账号，就可以正常下载Telegram了。
 
@@ -34,7 +34,7 @@
 
 ![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Apple%20ID%E5%B8%90%E5%8F%B7.png)
 
-### 电脑端下载电报教程
+**三、电脑端下载电报教程**
 
 如果你习惯在电脑上使用，可以在Telegram官网选择Windows、Mac或Linux版本下载并安装。对于临时使用的情况，也可以通过Telegram网页版（web.telegram.org）直接登录账号收发消息，十分方便。
 
