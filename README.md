@@ -86,29 +86,29 @@ Sms-activate是一家来自俄罗斯的专业接码平台，支持接收Telegram
 
 ![注册Telegram收不到验证码：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-6.png)
 
-小提示：如果你在Sms-activate平台购买的国外虚拟手机号未成功接收到验证码，系统会自动退还已支付的金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时按照美元结算。由于国外手机号价格非常便宜，建议每次只充值1-2美元（约合100多卢布），避免一次性充值过多。
+**小提示**：如果你在Sms-activate平台购买的国外虚拟手机号未成功接收到验证码，系统会自动退还已支付的金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时按照美元结算。由于国外手机号价格非常便宜，建议每次只充值1-2美元（约合100多卢布），避免一次性充值过多。
 
 ## 如何购买电报Telegram帐号？
 
 很多用户在注册Telegram时都会遇到收不到验证码的情况，或者刚注册的电报账号很快就被秒封，又或者在运营社群、电商推广时需要大量账号。与其反复尝试注册，不如直接购买一个现成的电报账号，这样能大大节省时间。国内用户购买Telegram账号主要有三大优势：
 
-* 省时省力：无需多次尝试注册，TG账号拿到手即可登录使用。
-* 相对稳定：老号或绑定过手机号的TG账号被风控的概率更低。
-* 批量使用：非常适合电商推广、社群营销等场景。
+* **省时省力**：无需多次尝试注册，TG账号拿到手即可登录使用。
+* **相对稳定**：老号或绑定过手机号的TG账号被风控的概率更低。
+* **批量使用**：非常适合电商推广、社群营销等场景。
 
 此外，在选择Telegram账号购买平台时，大家需要重点关注几个关键点。首先要确认平台是否正规，是否有长期运营和良好口碑；其次要看发货速度是否稳定，正规平台通常支持自动发货；再者要确认支付方式是否对国内用户友好，比如是否支持支付宝和微信等；最后要关注售后服务是否完善，是否能提供24小时真人在线客服支持。
 
 接下来，我们以知名的“账号星球”为例，为大家演示购买Telegram账号的完整流程：
 
-第一步：打开<a href="https://accboyytbanyofai.acceboy.com/">账号星球官网</a>，并点击导航中的“Telegram账号”。
+**第一步：打开<a href="https://accboyytbanyofai.acceboy.com/">账号星球官网</a>，并点击导航中的“Telegram账号”。**
 
 ![如何购买电报Telegram帐号：打开账号星球官网，并点击导航中的“Telegram账号”](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-1.png)
 
-第二步：选择“规格”和“地区”，然后点击“立即购买”按钮。
+**第二步：选择“规格”和“地区”，然后点击“立即购买”按钮。**
 
 ![如何购买电报Telegram帐号：选择“规格”和“地区”，然后点击“立即购买”按钮](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-2.png)
 
-第三步：选择“支付方式”，填写“收货地址”，最后点击“确认支付”按钮。
+**第三步：选择“支付方式”，填写“收货地址”，最后点击“确认支付”按钮。**
 
 ![如何购买电报Telegram帐号：选择“支付方式”，填写“收货地址”，最后点击“确认支付”按钮](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-3.png)
 
