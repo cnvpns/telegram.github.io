@@ -58,7 +58,7 @@
 
 ## 注册Telegram收不到验证码？
 
-最近两年，很多国内用户在注册Telegram时都会遇到收不到验证码的情况。最简单的解决办法，就是通过专业接码平台获取一个国外虚拟手机号。接下来，我们将详细介绍如何通过“<a href="https://sms-activate.io/?ref=3917403">Sms-activate</a>”平台获取国外手机号，并使用该号码完成Telegram注册。
+最近两年，很多国内用户在注册Telegram时都会遇到收不到验证码的情况。最简单的解决办法，就是通过专业接码平台获取一个国外虚拟手机号。接下来，我们将详细介绍如何通过“Sms-activate”平台获取国外手机号，并使用该号码完成Telegram注册。
 
 Sms-activate是一家来自俄罗斯的专业接码平台，支持接收Telegram、Claude、MidJourney、TikTok、Facebook、WhatsApp等多种平台的验证码。Sms-activate平台上的国外虚拟手机号价格非常便宜，平均每个仅需几卢布至几十卢布（约合人民币2-3元），并且支持支付宝付款，使用起来十分方便。
 
