@@ -193,3 +193,13 @@ Telegram作为一款全球知名的即时通讯工具，不仅功能强大，还
 同样，对于iOS用户而言，如果因为没有海外Apple ID而无法下载Telegram客户端，也可以通过“银河录像局”购买现成的海外Apple ID账号，从而顺利在App Store下载安装Telegram。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
+
+## Telegram注册相关的其他文章：
+
+* <a href="https://github.com/cnvpns/cnvpns.github.io">科学上网教程</a>：2025年最好用的翻墙软件和翻墙VPN推荐！
+* <a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN排行</a>：2025年在中国大陆最好用的中国VPN推荐！
+* <a href="https://github.com/cnvpns/pcvpn.github.io">电脑翻墙教程</a>：2025年中国最好用的PC端电脑VPN推荐！
+* <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
+* <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
+* <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的翻墙回国VPN推荐！
+* <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN国内还能用吗？
