@@ -18,29 +18,29 @@
 
 需要注意的是，翻墙软件不仅在下载和注册Telegram账号时必不可少，在日常使用Telegram的过程中，也必须全程保持连接，这样才能确保正常访问。更多详情请查看：<a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN</a>、<a href="https://github.com/cnvpns/pcvpn.github.io">电脑VPN</a>、<a href="https://github.com/cnvpns/android.github.io">安卓VPN</a>、<a href="https://github.com/cnvpns/freevpn.github.io">免费VPN</a>。
 
-**一、安卓设备下载电报教程**
-
-安卓用户可以直接访问Telegram官方网站（telegram.org），在页面顶部点击“Apps”，选择Android版本进行下载。如果你使用的是Google Play账号，也可以在Google Play商店搜索“Telegram”并下载安装。我们建议大家优先选择Telegram官方网站提供的apk文件，避免通过第三方渠道下载，以防出现安全风险。
-
-注意：如果你没有Gmail邮箱，可以通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”这一专业平台直接购买现成的Gmail账号！
-
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Gmail%E9%82%AE%E7%AE%B1.png)
-
-**二、iOS设备下载电报教程**
-
-由于国内苹果用户在App Store国区无法直接搜索到Telegram，因此需要使用海外Apple ID账号。大家可以自己注册一个新的海外Apple ID帐号，将地区设置为美国或香港，然后在App Store中登录该账号，就可以正常下载Telegram了。
-
-注意：由于注册海外Apple ID账号的流程非常复杂，而且很容易出错，我们建议大家通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”这样专业的平台直接购买一个海外Apple ID账号。该账号独立属于你个人，可以长期使用，非常简单方便。
-
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Apple%20ID%E5%B8%90%E5%8F%B7.png)
-
-**三、电脑端下载电报教程**
+**一、电脑端下载电报教程**
 
 如果你习惯在电脑上使用，可以在Telegram官网选择Windows、Mac或Linux版本下载并安装。对于临时使用的情况，也可以通过Telegram网页版（web.telegram.org）直接登录账号收发消息，十分方便。
 
 不过需要注意的是，新用户注册Telegram账号必须在移动端完成，电脑端和网页版仅支持已有账号的登录和使用，无法进行新账号的注册。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E4%B8%8B%E8%BD%BDTelegram%20APP.png)
+![电脑端下载电报教程：通过Telegram官网下载Windows、Mac或Linux客户端](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E4%B8%8B%E8%BD%BDTelegram%20APP.png)
+
+**二、安卓设备下载电报教程**
+
+安卓用户可以直接访问Telegram官方网站（telegram.org），在页面顶部点击“Apps”，选择Android版本进行下载。如果你使用的是Google Play账号，也可以在Google Play商店搜索“Telegram”并下载安装。我们建议大家优先选择Telegram官方网站提供的apk文件，避免通过第三方渠道下载，以防出现安全风险。
+
+注意：如果你没有Gmail邮箱，可以通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”这一专业平台直接购买现成的Gmail邮箱账号！
+
+![安卓设备下载电报教程：通过银河录像局购买Gmail邮箱帐号](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Gmail%E9%82%AE%E7%AE%B1.png)
+
+**三、iOS设备下载电报教程**
+
+由于国内苹果用户在App Store国区无法直接搜索到Telegram，因此需要使用海外Apple ID账号。大家可以自己注册一个新的海外Apple ID帐号，将地区设置为美国或香港，然后在App Store中登录该账号，就可以正常下载Telegram了。
+
+注意：由于注册海外Apple ID账号的流程非常复杂，而且很容易出错，我们建议大家通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”这样专业的平台直接购买一个海外Apple ID账号。该账号独立属于你个人，可以长期使用，非常简单方便。
+
+![iOS设备下载电报教程：通过银河录像局购买Apple ID帐号](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Apple%20ID%E5%B8%90%E5%8F%B7.png)
 
 ## 如何注册电报Telegram帐号？ 
 
@@ -64,27 +64,27 @@ Sms-activate是一家来自俄罗斯的专业接码平台，支持接收Telegram
 
 第一步：打开<a href="https://sms-activate.io/?ref=3917403">Sms-activate官网</a>，并将网站语言切换为“中文”。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-1.png)
+![注册Telegram收不到验证码：打开Sms-activate官网，并将网站语言切换为“中文”](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-1.png)
 
 第二步：点击官网右上角的“注册”按钮并完成账号注册。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-2.png)
+![注册Telegram收不到验证码：点击官网右上角的“注册”按钮并完成账号注册](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-2.png)
 
 第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-3.png)
+![注册Telegram收不到验证码：点击右上角的“充值”按钮，并使用支付宝充值2美元](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-3.png)
 
 第四步：在官网左侧的搜索框中输入“Telegram”。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-4.png)
+![注册Telegram收不到验证码：在官网左侧的搜索框中输入“Telegram”](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-4.png)
 
 第五步：选择目标国家的手机号，并按照系统提示完成购买。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-5.png)
+![注册Telegram收不到验证码：选择目标国家的手机号，并按照系统提示完成购买](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-5.png)
 
 第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-6.png)
+![注册Telegram收不到验证码：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-6.png)
 
 小提示：如果你在Sms-activate平台购买的国外虚拟手机号未成功接收到验证码，系统会自动退还已支付的金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时按照美元结算。由于国外手机号价格非常便宜，建议每次只充值1-2美元（约合100多卢布），避免一次性充值过多。
 
@@ -102,15 +102,15 @@ Sms-activate是一家来自俄罗斯的专业接码平台，支持接收Telegram
 
 第一步：打开<a href="https://accboyytbanyofai.acceboy.com/">账号星球官网</a>，并点击导航中的“Telegram账号”。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-1.png)
+![如何购买电报Telegram帐号：打开账号星球官网，并点击导航中的“Telegram账号”](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-1.png)
 
 第二步：选择“规格”和“地区”，然后点击“立即购买”按钮。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-2.png)
+![如何购买电报Telegram帐号：选择“规格”和“地区”，然后点击“立即购买”按钮](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-2.png)
 
 第三步：选择“支付方式”，填写“收货地址”，最后点击“确认支付”按钮。
 
-![](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-3.png)
+![如何购买电报Telegram帐号：选择“支付方式”，填写“收货地址”，最后点击“确认支付”按钮](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0Telegram%E5%B8%90%E5%8F%B7-3.png)
 
 OK，当你按照系统提示完成付款后，通常在几分钟之内就能收到购买的Telegram账号信息。我们建议大家在首次登录之后，立即修改密码、绑定邮箱，并开启双重验证来提升账号的安全性。此外，由于Telegram的风控较为严格，首次登录时一定要确保使用干净的网络环境。我们强烈推荐大家优先选择<a href="https://go.expressvpn.com/c/3809391/1462855/16063">ExpressVPN</a>，并保持使用同一个IP节点，否则很容易触发安全限制甚至导致封号。
 
