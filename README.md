@@ -8,6 +8,16 @@
 
 不过，受网络环境影响，国内用户若想顺利下载和使用电报并不容易。大家最常见的问题包括“**国内无法下载Telegram客户端**”“**注册Telegram时收不到验证码**”等。这些问题看似复杂，其实都有成熟的解决办法。本文将从电报的下载、注册到使用等环节进行详细讲解，帮助你快速上手。
 
+<blockquote>
+<h2 id="本文内容导航">本文内容导航</h2>
+<h3 id="1-如何下载telegram客户端">1. <a href="#如何下载telegram客户端">如何下载Telegram客户端？</a></h3>
+<h3 id="2-如何注册电报telegram帐号">2. <a href="#如何注册电报telegram帐号">如何注册电报Telegram帐号？</a></h3>
+<h3 id="3-注册telegram收不到验证码">3. <a href="#注册telegram收不到验证码">注册Telegram收不到验证码？</a></h3>
+<h3 id="4-如何购买电报telegram帐号">4. <a href="#如何购买电报telegram帐号">如何购买电报Telegram帐号？</a></h3>
+<h3 id="5-新手如何使用telegram电报">5. <a href="#新手如何使用telegram电报">新手如何使用Telegram电报？</a></h3>
+<h3 id="6-国内下载和注册电报帐号总结">6. <a href="#国内下载和注册电报帐号总结">国内下载和注册电报帐号总结</a></h3>
+</blockquote>
+
 ## 如何下载Telegram客户端？
 
 如果你想在国内顺利下载和使用Telegram，首先必须准备一款安全可靠的<a href="https://github.com/cnvpns/cnvpns.github.io">翻墙软件</a>。由于Telegram在国内长期被封，如果没有稳定的翻墙工具，不仅无法访问Telegram官网，也无法在各大应用商店中直接下载Telegram客户端。这里推荐大家优先选择以下两款适用于注册和使用Telegram的专用VPN：
