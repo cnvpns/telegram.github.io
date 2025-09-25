@@ -62,27 +62,27 @@
 
 Sms-activate是一家来自俄罗斯的专业接码平台，支持接收Telegram、Claude、MidJourney、TikTok、Facebook、WhatsApp等多种平台的验证码。Sms-activate平台上的国外虚拟手机号价格非常便宜，平均每个仅需几卢布至几十卢布（约合人民币2-3元），并且支持支付宝付款，使用起来十分方便。
 
-第一步：打开<a href="https://sms-activate.io/?ref=3917403">Sms-activate官网</a>，并将网站语言切换为“中文”。
+**第一步：打开<a href="https://sms-activate.io/?ref=3917403">Sms-activate官网</a>，并将网站语言切换为“中文”。**
 
 ![注册Telegram收不到验证码：打开Sms-activate官网，并将网站语言切换为“中文”](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-1.png)
 
-第二步：点击官网右上角的“注册”按钮并完成账号注册。
+**第二步：点击官网右上角的“注册”按钮并完成账号注册。**
 
 ![注册Telegram收不到验证码：点击官网右上角的“注册”按钮并完成账号注册](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-2.png)
 
-第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元。
+**第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元。**
 
 ![注册Telegram收不到验证码：点击右上角的“充值”按钮，并使用支付宝充值2美元](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-3.png)
 
-第四步：在官网左侧的搜索框中输入“Telegram”。
+**第四步：在官网左侧的搜索框中输入“Telegram”。**
 
 ![注册Telegram收不到验证码：在官网左侧的搜索框中输入“Telegram”](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-4.png)
 
-第五步：选择目标国家的手机号，并按照系统提示完成购买。
+**第五步：选择目标国家的手机号，并按照系统提示完成购买。**
 
 ![注册Telegram收不到验证码：选择目标国家的手机号，并按照系统提示完成购买](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-5.png)
 
-第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号。
+**第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号。**
 
 ![注册Telegram收不到验证码：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/cnvpns/telegram.github.io/refs/heads/main/image/%E6%B3%A8%E5%86%8CTelegram%E6%94%B6%E4%B8%8D%E5%88%B0%E9%AA%8C%E8%AF%81%E7%A0%81-6.png)
 
