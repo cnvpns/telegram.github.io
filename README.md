@@ -174,7 +174,7 @@ Telegram作为一款全球知名的即时通讯工具，不仅功能强大，还
 
 <p align="center"><a href="https://sms-activate.io/?ref=3917403">立即访问Sms-activate官网</a></p>
 
-对于希望节省时间或需要大量账号的用户来说，直接通过“账号星球”这样专业的平台购买现成的电报账号，也是一个高效的选择。
+对于希望节省时间或需要大量Telegram账号的用户来说，也可以通过“账号星球”这样专业的平台直接购买现成的电报账号，非常的简单方便。
 
 <p align="center"><a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
 
