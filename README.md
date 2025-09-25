@@ -1,4 +1,4 @@
-# <p align="center">电报(Telegram)教程：如何下载注册电报帐号？Telegram收不到验证码怎么办？</p>
+# <p align="center">电报(Telegram)教程：如何注册电报帐号？Telegram收不到验证码怎么办？</p>
 
 <p align="center">最近更新：2025年9月25日</p>
 
